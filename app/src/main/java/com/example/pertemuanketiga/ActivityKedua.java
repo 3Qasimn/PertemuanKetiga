@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class ActivityKedua extends AppCompatActivity {
+    //text view
     TextView txEmail, txPassword;
 
     @Override
